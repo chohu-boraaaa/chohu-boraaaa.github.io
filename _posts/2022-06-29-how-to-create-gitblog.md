@@ -1,6 +1,6 @@
 ---   
 layout: post  
-title: "Making my own Gitblog"
+title: "[Making my own Gitblog] 나만의 깃블로그 만들기"
 date: 2022-06-29
 excerpt: "This post is about how to make gitblog with git, visual studio code, and jekyll."
 project: true
@@ -28,10 +28,12 @@ comments: true
 
 ## 2. Git 설치하기
 ---
-### 1) 윈도우 검색창에 **git bash** 입력
+### 1) 깃 설치
+
+### 2) 윈도우 검색창에 **git bash** 입력
 ![gitbash](https://user-images.githubusercontent.com/77424107/176376359-ccc7e25e-2309-449c-9be1-ccdd616721e9.png)
 
-### 2) 깃허브아이디, 이메일 넣어주기
+### 3) 깃허브아이디, 이메일 넣어주기
 ![image](https://user-images.githubusercontent.com/77424107/176377164-952bc747-0f45-4ea4-966a-28be248fe4bf.png)
 
 ## 3. Jekyll 테마 적용하기
