@@ -1,8 +1,8 @@
 ---   
 layout: post  
-title: [GitBlog] 깃블로그 제작하기
+title: "Making my own Gitblog"
 date: 2022-06-29
-description: description 내용
+excerpt: "This post is about how to make gitblog with git, visual studio code, and jekyll."
 project: true
 tag:
 - github
