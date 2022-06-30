@@ -3,7 +3,7 @@ layout: post
 title: "[Making my own Gitblog] 나만의 깃블로그 만들기"
 date: 2022-06-29
 excerpt: "This post is about how to make gitblog with git, visual studio code, and jekyll."
-project: true
+project: false
 tag:
 - gitblog
 comments: false
