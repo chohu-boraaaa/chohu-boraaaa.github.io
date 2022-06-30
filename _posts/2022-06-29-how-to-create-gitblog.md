@@ -73,3 +73,7 @@ comments: true
 - 이 내용은 https://lemonlemon.tistory.com/178 이 분의 블로그에 잘 나와있습니다!
 
 ### 3) 포스트 깃허브에 올리기
+- 내용 추가 예정
+
+### 4) 깃블로그에 댓글 기능 추가
+- 🔗[댓글기능 추가 방법](https://velog.io/@shg4821/%EA%B9%83%ED%97%88%EB%B8%8C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-4-%EB%8C%93%EA%B8%80-%EA%B8%B0%EB%8A%A5-%EC%9E%A5%EC%B0%A9)
