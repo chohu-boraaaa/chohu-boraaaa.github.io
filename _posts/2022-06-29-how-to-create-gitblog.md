@@ -5,13 +5,8 @@ date: 2022-06-29
 excerpt: "This post is about how to make gitblog with git, visual studio code, and jekyll."
 project: true
 tag:
-- github
 - gitblog
-- blog
-- jekyll
-- moon
-- theme  
-comments: true
+comments: false
 ---  
 
 <center><b>들어가며</b></center>
