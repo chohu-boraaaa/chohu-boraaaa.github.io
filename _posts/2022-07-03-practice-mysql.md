@@ -2,11 +2,13 @@
 layout: post  
 title: "[MySQL] MySQL 기본 정리"
 date: 2022-06-29
-excerpt: "This post is about how to make gitblog with git, visual studio code, and jekyll."
+excerpt: "이 포스트는 MySQL 기본 문법을 정리한 내용입니다."
 tag:
 - mysql
 comments: true
 ---  
+🔗[강의는 이수안컴퓨터연구소 유튜브 MySQL 강의를 참고하였습니다.](https://www.youtube.com/watch?v=vgIc4ctNFbc&list=PLAsbL2NvnmK7HZ4wyxdFkvqMTtu6Mr9gY&index=5&ab_channel=%EC%9D%B4%EC%88%98%EC%95%88%EC%BB%B4%ED%93%A8%ED%84%B0%EC%97%B0%EA%B5%AC%EC%86%8C)
+
 # 현재 서버에 어떤 DB가 있는지 보기
 SHOW DATABASES
 
