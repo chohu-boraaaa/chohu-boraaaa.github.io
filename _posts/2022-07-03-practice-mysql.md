@@ -1,7 +1,7 @@
 ---   
 layout: post  
 title: "[MySQL] MySQL 기본 정리"
-date: 2022-06-29
+date: 2022-07-04
 excerpt: "이 포스트는 MySQL 기본 문법을 정리한 내용입니다."
 tag:
 - mysql
