@@ -4,7 +4,7 @@ title: "[Crawling] 크롤링에서 time.sleep() 해주는 이유"
 date: 2022-07-11
 excerpt: "크롤링 할 때 time.sleep()이 왜 필요할까요?"
 tag:
-- mysql
+- crawling
 comments: true
 ---  
 
