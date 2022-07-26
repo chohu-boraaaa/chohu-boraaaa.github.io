@@ -51,7 +51,7 @@ comments: true
 - 여기에서 title, description, 이메일 주소, sns 주소 등을 설정하여 파일을 수정하면 됩니다.
 
 ### 4) 수정한 파일 깃허브에 올리기
-- git add '수정한 파일명'
+- git add '수정한 파일명' (수정한 모든 내용 올리고 싶다면 * 사용! ex. git add *)
 - git commit -m 'commitmessage'
 - git push
 ![image](https://user-images.githubusercontent.com/77424107/176379849-f90a42b8-726d-499c-8a57-8262785f6a40.png)
