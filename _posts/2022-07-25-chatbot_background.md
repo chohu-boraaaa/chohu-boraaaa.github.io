@@ -1,7 +1,7 @@
 ---   
 layout: post  
 title: "[AI CHATBOT] 챗봇 개발에 필요한 배경지식"
-date: 2022-07-11
+date: 2022-07-25
 excerpt: "본 게시물은 박성백 강사님의 AI 챗봇 강의를 듣고 배운 내용을 기록하였습니다."
 tag:
 - chatbot
