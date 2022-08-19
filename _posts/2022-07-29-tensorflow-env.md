@@ -13,6 +13,7 @@ comments: true
 # 1. conda update
 - 시작 > Anaconda3 > Anaconda Prompt(anaconda3) >
 - conda update conda
+
 # 2. 가상환경 만들기
 ---
 - 시작 > Anaconda3 > Anaconda Prompt(anaconda3) >
