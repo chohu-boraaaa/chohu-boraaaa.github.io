@@ -35,3 +35,8 @@ comments: true
 
 ---
 ## But,,, 실패...
+
+---
+
+## 해결❓-> conda install 대신 pip install로 설치 (pip install로 설치하면 conda install 보다 패키지 관리가 용이하지 않다는 단점)
+- 참고 사이트 : [🔗conda install과 pip install은 똑같은 걸까?](https://daewonyoon.tistory.com/359)
